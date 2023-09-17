@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_font">16sp</dimen>
+    <dimen name="state_connector_thickness">3dp</dimen>
+    <dimen name="state_circle_diameter">12dp</dimen>
+    <dimen name="small_font">12sp</dimen>
+</resources>
